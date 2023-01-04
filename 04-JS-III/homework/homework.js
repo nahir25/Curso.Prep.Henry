@@ -2,7 +2,8 @@
 
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
-  // Tu código:
+  // Tu código: [5, 6, 8, 9]
+  return array[0]
 }
 
 
@@ -14,7 +15,8 @@ function devolverUltimoElemento(array) {
 
 function obtenerLargoDelArray(array) {
   // Devuelve el largo de un array
-  // Tu código:
+  // Tu código: [5, 6, 8, 9] --> .length
+  return array.length 
 }
 
 
